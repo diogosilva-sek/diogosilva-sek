@@ -4,8 +4,6 @@
   <img alt="Diogo Henrique's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Diogo Henrique
-
 Engenheiro de software fullstack.
 
 Antes disso, atuei como analista de sistemas com Oracle PL/SQL e Forms, e trabalhei com Postgres, AWS e GCP. Formado em Ciencia da Computacao pelo IFSULDEMINAS.
